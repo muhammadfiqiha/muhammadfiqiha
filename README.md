@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 
 <h1 align="center">Hi 👋, I'm Fiqih</h1>
-<h3 align="center">Computer engineering student at Universitas Indonesia with current interest lies in network, data analytics, and backend development</h3>
+<h3 align="center">Computer engineering student at Universitas Indonesia with current interest lies in network, database, and backend development, while also exploring into the data engineering and analytics. </h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
